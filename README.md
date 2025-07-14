@@ -103,6 +103,9 @@ SpendSmart/
    
     https://localhost:<your-port>/Home/Index
 
+
+   
+
 🧪 Database Notes
 The project uses EF Core In-Memory database provider.
 
@@ -112,12 +115,21 @@ Data resets on each app restart.
 
 Ideal for learning, prototyping, or quick demonstrations.
 
+
+
+
 📎 Repository Link
 GitHub Repo: https://github.com/M-EdwardSamuel/SpendSmart
+
+
+
 
 🙋 About the Author
 Edward Samuel
 This project was created to practice ASP.NET Core MVC, Entity Framework Core, and clean CRUD development using Razor views and in-memory databases.
+
+
+
 
 📄 License
 This project is open-source and available under the MIT License.
